@@ -2,7 +2,7 @@
 
 A simple daily journal to jot down your day.
 
-**Live:** https://jot-sigma.vercel.app/
+**Live:** https://jot-teal.vercel.app/
 
 ## What it does
 
